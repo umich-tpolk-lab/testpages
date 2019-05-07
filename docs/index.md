@@ -1,4 +1,5 @@
-# Computational and Cognitive Neuroscience Laboratory
+# Computational and Cognitive Neuroscience
+# Laboratory
 
 This is the main page.
 
