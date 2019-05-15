@@ -1,17 +1,16 @@
 # Computational and Cognitive Neuroscience
 # Laboratory
 
-Name of task:
+Name of task
 
-Creator/s
-
-Year of creation
+| -------------  |:-------------:|
+| Creator/s            | Molly Simmonite |
+| Year of creation     | 10000 BC        |
+| Program used/version | E-Prime x.y     |
 
 Publications associated with this task
 
-Publications assoc. with task more generally? 
-
-Program used/version: 
+Publications assoc. with task more generally?  
 
 what the task measures/does: 
 
