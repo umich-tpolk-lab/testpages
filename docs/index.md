@@ -17,10 +17,19 @@ This task includes six catch trials, three in face blocks and three in house blo
 | Program used/version | E-Prime x.y     |
 * * * 
 
-### Publications associated with this task
+### Publications about this task
+Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
+dementia: A longitudinal fMRI study. _Neuropsychologia_ 48, 123–136 (2010).
 
-### Publications assoc. with task more generally?  
+Simmonds, D. J., Pekar, J. J. & Mostofsky, S. H. Meta-analysis of Go/No-go tasks demonstrating that fMRI
+activation associated with response inhibition is task-dependent. _Neuropsychologia_ 46, 224–232 (2008).
 
+### Publications using this task 
+Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
+dementia: A longitudinal fMRI study. _Neuropsychologia_ 48, 123–136 (2010).
+
+Simmonds, D. J., Pekar, J. J. & Mostofsky, S. H. Meta-analysis of Go/No-go tasks demonstrating that fMRI
+activation associated with response inhibition is task-dependent. _Neuropsychologia_ 46, 224–232 (2008).
 
 
 
