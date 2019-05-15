@@ -12,9 +12,11 @@ This is a 6 minute long task of 24 blocks. Twelve of these are 20-second stimulu
 This task includes six catch trials, three in face blocks and three in house blocks, to ensure the participant is awake. Female faces and apartment buildings indicate catch trials, and the participant is instructed to use their right index finger to press a button upon seeing these trial images. There is approximately one catch trial per minute, and only one catch trial in any one block. 
 
 * * *
+
 | Creator/s            | Molly Simmonite |
 | Year of creation     | 10000 BC        |
 | Program used/version | E-Prime x.y     |
+
 * * * 
 
 ### Publications about this task
