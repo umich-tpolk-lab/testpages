@@ -19,7 +19,8 @@ This task includes six catch trials, three in face blocks and three in house blo
 
 * * * 
 
-[Face House Task](https://github.com/umich-tpolk-lab/PainStudy_AJ.es2)
+[Face House Task](https://github.com/umich-tpolk-lab/testpages/PainStudy_AJ.es2)
+
 ### Publications about this task
 Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
 dementia: A longitudinal fMRI study. _Neuropsychologia_ 48, 123–136 (2010).
