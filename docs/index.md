@@ -2,6 +2,7 @@
 # Laboratory
 
 ## Face House Task
+right-click or Ctrl-click to download file: [Face House Task](https://github.com/umich-tpolk-lab/testpages/blob/master/PainStudy_AJ.es2)
 
 ### what the task measures/does
 
@@ -18,8 +19,6 @@ This task includes six catch trials, three in face blocks and three in house blo
 | Program used/version | E-Prime x.y     |
 
 * * * 
-
-[Face House Task](https://github.com/umich-tpolk-lab/testpages/blob/master/PainStudy_AJ.es2)
 
 ### Publications about this task
 Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
