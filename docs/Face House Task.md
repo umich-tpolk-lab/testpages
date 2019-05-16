@@ -1,7 +1,5 @@
-# Computational and Cognitive Neuroscience
-# Laboratory
+# Face House Task
 
-## Face House Task
 right-click or Ctrl-click to download file: [Face House Task](https://github.com/umich-tpolk-lab/testpages/blob/master/PainStudy_AJ.es2)
 
 ### what the task measures/does
