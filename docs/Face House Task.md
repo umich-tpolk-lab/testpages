@@ -3,6 +3,7 @@
 right-click or Ctrl-click to download file: [Face House Task](https://github.com/umich-tpolk-lab/testpages/blob/master/PainStudy_AJ.es2)
 
 ### what the task measures/does
+Localization of Function 
 
 ### Description of task
 
@@ -18,14 +19,14 @@ This task includes six catch trials, three in face blocks and three in house blo
 
 * * * 
 
-### Publications about this task
+### Publications about this task (specifically the one linked, like the MiND project)
 Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
 dementia: A longitudinal fMRI study. _Neuropsychologia_ 48, 123–136 (2010).
 
 Simmonds, D. J., Pekar, J. J. & Mostofsky, S. H. Meta-analysis of Go/No-go tasks demonstrating that fMRI
 activation associated with response inhibition is task-dependent. _Neuropsychologia_ 46, 224–232 (2008).
 
-### Publications using this task 
+### Publications using this task (maybe some publications about the use of this task more generally, like other studies using face house tasks)
 Maguire, E. A., Kumaran, D., Hassabis, D. & Kopelman, M. D. Autobiographical memory in semantic
 dementia: A longitudinal fMRI study. _Neuropsychologia_ 48, 123–136 (2010).
 
